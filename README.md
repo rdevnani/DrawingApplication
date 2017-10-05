@@ -12,8 +12,3 @@ Using Mouse Events with jQuery to Create a Simple Drawing Application with the h
 5) on()
 
 
-![](/Preview1.png)
-
-
-![](/Preview2.png)
-
